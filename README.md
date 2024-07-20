@@ -1,5 +1,5 @@
 # robofriends
-React + Redux
+React + Redux + PWA 
 
 To run the project:
 
@@ -7,5 +7,5 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-*visit https://zerotomastery.io/ for more*
+*visist https://zerotomastery.io/ for more*
 
